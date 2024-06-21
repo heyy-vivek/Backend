@@ -11,7 +11,7 @@ This is the backend server for the Desktop Forms application. The backend is bui
 - **Search Submissions**: Find submissions by email.
 
 ## Start the server
--**npm run start**: The server will start running locally.
--**npm run dev**: The server will start with nodemon, locally.
+- **npm run start**: The server will start running locally.
+- **npm run dev**: The server will start with nodemon, locally.
 
 
