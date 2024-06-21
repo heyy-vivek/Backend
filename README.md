@@ -1,7 +1,7 @@
 # Backend-Desktop-Forms-App
 
 ## Description
-This is the backend server for the  Desktop Forms application. The backend is built using Node.js and Express.js, and it provides APIs for managing AI task submissions stored in a JSON file. It supports operations such as creating, reading, updating, and deleting submissions.
+This is the backend server for the  Desktop Forms application. The backend is built using TypeScript, Node.js and Express.js, and it provides APIs for managing AI task submissions stored in a JSON file. It supports operations such as creating, reading, updating, and deleting submissions.
 
 ## Features
 - **Create Submissions**: Add new submissions to the database.
